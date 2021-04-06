@@ -20,5 +20,5 @@
 [LOCAL, BASE Y REMOTO](https://github.com/Ery01/Lab4/blob/master/definiciones.md)
 
 **Repositorio donde se hizo el TP1**
-[Repositorio](https://github.com/Ery01/Lab4)
+[Repositorio del TP](https://github.com/Ery01/Lab4)
 
