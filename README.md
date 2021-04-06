@@ -1,8 +1,10 @@
 # Trabajo Práctico N° 1: Sistemas de control de versiones.
 
 **Crear Readme y cv**
+
 [Readme](https://github.com/Ery01/Lab4/blob/master/readme.md)
 [CV](https://github.com/Ery01/Lab4/blob/master/cv.md)
+
 **Familiarizarse con el concepto de Pull Request**
 - Crear un branch local y agregar cambios a dicho branch.
 ![](https://github.com/Ery01/ing-lab-4/blob/master/imagenes/crearEnRamaSecundaria.png)
@@ -23,5 +25,6 @@
 [LOCAL, BASE Y REMOTO](https://github.com/Ery01/Lab4/blob/master/definiciones.md)
 
 **Repositorio donde se hizo el TP1**
+
 [Repositorio del TP](https://github.com/Ery01/Lab4)
 
